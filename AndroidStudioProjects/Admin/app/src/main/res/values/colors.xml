@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="MauNen">#f39c11</color>
+    <color name="Cam">#ff7f27</color>
+    <color name="vang">#ffc90e</color>
+</resources>
